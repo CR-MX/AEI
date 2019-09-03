@@ -1,0 +1,11 @@
+D:\todo\Uni\7B\Aplicaciones\git\AEI\15.controlbancario\obj\Debug\netcoreapp2.1\15.controlbancario.csprojAssemblyReference.cache
+D:\todo\Uni\7B\Aplicaciones\git\AEI\15.controlbancario\obj\Debug\netcoreapp2.1\15.controlbancario.csproj.CoreCompileInputs.cache
+D:\todo\Uni\7B\Aplicaciones\git\AEI\15.controlbancario\obj\Debug\netcoreapp2.1\15.controlbancario.AssemblyInfoInputs.cache
+D:\todo\Uni\7B\Aplicaciones\git\AEI\15.controlbancario\obj\Debug\netcoreapp2.1\15.controlbancario.AssemblyInfo.cs
+D:\todo\Uni\7B\Aplicaciones\git\AEI\15.controlbancario\bin\Debug\netcoreapp2.1\15.controlbancario.deps.json
+D:\todo\Uni\7B\Aplicaciones\git\AEI\15.controlbancario\bin\Debug\netcoreapp2.1\15.controlbancario.runtimeconfig.json
+D:\todo\Uni\7B\Aplicaciones\git\AEI\15.controlbancario\bin\Debug\netcoreapp2.1\15.controlbancario.runtimeconfig.dev.json
+D:\todo\Uni\7B\Aplicaciones\git\AEI\15.controlbancario\bin\Debug\netcoreapp2.1\15.controlbancario.dll
+D:\todo\Uni\7B\Aplicaciones\git\AEI\15.controlbancario\bin\Debug\netcoreapp2.1\15.controlbancario.pdb
+D:\todo\Uni\7B\Aplicaciones\git\AEI\15.controlbancario\obj\Debug\netcoreapp2.1\15.controlbancario.dll
+D:\todo\Uni\7B\Aplicaciones\git\AEI\15.controlbancario\obj\Debug\netcoreapp2.1\15.controlbancario.pdb
