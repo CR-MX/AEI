@@ -1,0 +1,11 @@
+D:\todo\Uni\7B\Aplicaciones\git\AEI\03.areatriangulo\bin\Debug\netcoreapp2.1\03.areatriangulo.deps.json
+D:\todo\Uni\7B\Aplicaciones\git\AEI\03.areatriangulo\bin\Debug\netcoreapp2.1\03.areatriangulo.runtimeconfig.json
+D:\todo\Uni\7B\Aplicaciones\git\AEI\03.areatriangulo\bin\Debug\netcoreapp2.1\03.areatriangulo.runtimeconfig.dev.json
+D:\todo\Uni\7B\Aplicaciones\git\AEI\03.areatriangulo\bin\Debug\netcoreapp2.1\03.areatriangulo.dll
+D:\todo\Uni\7B\Aplicaciones\git\AEI\03.areatriangulo\bin\Debug\netcoreapp2.1\03.areatriangulo.pdb
+D:\todo\Uni\7B\Aplicaciones\git\AEI\03.areatriangulo\obj\Debug\netcoreapp2.1\03.areatriangulo.csprojAssemblyReference.cache
+D:\todo\Uni\7B\Aplicaciones\git\AEI\03.areatriangulo\obj\Debug\netcoreapp2.1\03.areatriangulo.csproj.CoreCompileInputs.cache
+D:\todo\Uni\7B\Aplicaciones\git\AEI\03.areatriangulo\obj\Debug\netcoreapp2.1\03.areatriangulo.AssemblyInfoInputs.cache
+D:\todo\Uni\7B\Aplicaciones\git\AEI\03.areatriangulo\obj\Debug\netcoreapp2.1\03.areatriangulo.AssemblyInfo.cs
+D:\todo\Uni\7B\Aplicaciones\git\AEI\03.areatriangulo\obj\Debug\netcoreapp2.1\03.areatriangulo.dll
+D:\todo\Uni\7B\Aplicaciones\git\AEI\03.areatriangulo\obj\Debug\netcoreapp2.1\03.areatriangulo.pdb
