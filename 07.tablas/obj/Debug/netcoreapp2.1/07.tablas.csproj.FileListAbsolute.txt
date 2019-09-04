@@ -1,0 +1,11 @@
+D:\todo\Uni\7B\Aplicaciones\git\AEI\07.tablas\bin\Debug\netcoreapp2.1\07.tablas.deps.json
+D:\todo\Uni\7B\Aplicaciones\git\AEI\07.tablas\bin\Debug\netcoreapp2.1\07.tablas.runtimeconfig.json
+D:\todo\Uni\7B\Aplicaciones\git\AEI\07.tablas\bin\Debug\netcoreapp2.1\07.tablas.runtimeconfig.dev.json
+D:\todo\Uni\7B\Aplicaciones\git\AEI\07.tablas\bin\Debug\netcoreapp2.1\07.tablas.dll
+D:\todo\Uni\7B\Aplicaciones\git\AEI\07.tablas\bin\Debug\netcoreapp2.1\07.tablas.pdb
+D:\todo\Uni\7B\Aplicaciones\git\AEI\07.tablas\obj\Debug\netcoreapp2.1\07.tablas.csprojAssemblyReference.cache
+D:\todo\Uni\7B\Aplicaciones\git\AEI\07.tablas\obj\Debug\netcoreapp2.1\07.tablas.csproj.CoreCompileInputs.cache
+D:\todo\Uni\7B\Aplicaciones\git\AEI\07.tablas\obj\Debug\netcoreapp2.1\07.tablas.AssemblyInfoInputs.cache
+D:\todo\Uni\7B\Aplicaciones\git\AEI\07.tablas\obj\Debug\netcoreapp2.1\07.tablas.AssemblyInfo.cs
+D:\todo\Uni\7B\Aplicaciones\git\AEI\07.tablas\obj\Debug\netcoreapp2.1\07.tablas.dll
+D:\todo\Uni\7B\Aplicaciones\git\AEI\07.tablas\obj\Debug\netcoreapp2.1\07.tablas.pdb
