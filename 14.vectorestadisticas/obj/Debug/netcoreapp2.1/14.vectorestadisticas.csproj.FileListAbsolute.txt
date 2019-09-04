@@ -1,0 +1,11 @@
+D:\todo\Uni\7B\Aplicaciones\git\AEI\14.vectorestadisticas\bin\Debug\netcoreapp2.1\14.vectorestadisticas.deps.json
+D:\todo\Uni\7B\Aplicaciones\git\AEI\14.vectorestadisticas\bin\Debug\netcoreapp2.1\14.vectorestadisticas.runtimeconfig.json
+D:\todo\Uni\7B\Aplicaciones\git\AEI\14.vectorestadisticas\bin\Debug\netcoreapp2.1\14.vectorestadisticas.runtimeconfig.dev.json
+D:\todo\Uni\7B\Aplicaciones\git\AEI\14.vectorestadisticas\bin\Debug\netcoreapp2.1\14.vectorestadisticas.dll
+D:\todo\Uni\7B\Aplicaciones\git\AEI\14.vectorestadisticas\bin\Debug\netcoreapp2.1\14.vectorestadisticas.pdb
+D:\todo\Uni\7B\Aplicaciones\git\AEI\14.vectorestadisticas\obj\Debug\netcoreapp2.1\14.vectorestadisticas.csprojAssemblyReference.cache
+D:\todo\Uni\7B\Aplicaciones\git\AEI\14.vectorestadisticas\obj\Debug\netcoreapp2.1\14.vectorestadisticas.csproj.CoreCompileInputs.cache
+D:\todo\Uni\7B\Aplicaciones\git\AEI\14.vectorestadisticas\obj\Debug\netcoreapp2.1\14.vectorestadisticas.AssemblyInfoInputs.cache
+D:\todo\Uni\7B\Aplicaciones\git\AEI\14.vectorestadisticas\obj\Debug\netcoreapp2.1\14.vectorestadisticas.AssemblyInfo.cs
+D:\todo\Uni\7B\Aplicaciones\git\AEI\14.vectorestadisticas\obj\Debug\netcoreapp2.1\14.vectorestadisticas.dll
+D:\todo\Uni\7B\Aplicaciones\git\AEI\14.vectorestadisticas\obj\Debug\netcoreapp2.1\14.vectorestadisticas.pdb
