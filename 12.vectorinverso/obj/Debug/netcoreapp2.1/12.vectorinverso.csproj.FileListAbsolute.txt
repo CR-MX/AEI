@@ -1,0 +1,11 @@
+D:\todo\Uni\7B\Aplicaciones\git\AEI\12.vectorinverso\bin\Debug\netcoreapp2.1\12.vectorinverso.deps.json
+D:\todo\Uni\7B\Aplicaciones\git\AEI\12.vectorinverso\bin\Debug\netcoreapp2.1\12.vectorinverso.runtimeconfig.json
+D:\todo\Uni\7B\Aplicaciones\git\AEI\12.vectorinverso\bin\Debug\netcoreapp2.1\12.vectorinverso.runtimeconfig.dev.json
+D:\todo\Uni\7B\Aplicaciones\git\AEI\12.vectorinverso\bin\Debug\netcoreapp2.1\12.vectorinverso.dll
+D:\todo\Uni\7B\Aplicaciones\git\AEI\12.vectorinverso\bin\Debug\netcoreapp2.1\12.vectorinverso.pdb
+D:\todo\Uni\7B\Aplicaciones\git\AEI\12.vectorinverso\obj\Debug\netcoreapp2.1\12.vectorinverso.csprojAssemblyReference.cache
+D:\todo\Uni\7B\Aplicaciones\git\AEI\12.vectorinverso\obj\Debug\netcoreapp2.1\12.vectorinverso.csproj.CoreCompileInputs.cache
+D:\todo\Uni\7B\Aplicaciones\git\AEI\12.vectorinverso\obj\Debug\netcoreapp2.1\12.vectorinverso.AssemblyInfoInputs.cache
+D:\todo\Uni\7B\Aplicaciones\git\AEI\12.vectorinverso\obj\Debug\netcoreapp2.1\12.vectorinverso.AssemblyInfo.cs
+D:\todo\Uni\7B\Aplicaciones\git\AEI\12.vectorinverso\obj\Debug\netcoreapp2.1\12.vectorinverso.dll
+D:\todo\Uni\7B\Aplicaciones\git\AEI\12.vectorinverso\obj\Debug\netcoreapp2.1\12.vectorinverso.pdb
