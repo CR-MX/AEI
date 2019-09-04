@@ -1,0 +1,11 @@
+D:\todo\Uni\7B\Aplicaciones\git\AEI\05.ciclos\obj\Debug\netcoreapp2.1\05.ciclos.csprojAssemblyReference.cache
+D:\todo\Uni\7B\Aplicaciones\git\AEI\05.ciclos\obj\Debug\netcoreapp2.1\05.ciclos.csproj.CoreCompileInputs.cache
+D:\todo\Uni\7B\Aplicaciones\git\AEI\05.ciclos\obj\Debug\netcoreapp2.1\05.ciclos.AssemblyInfoInputs.cache
+D:\todo\Uni\7B\Aplicaciones\git\AEI\05.ciclos\obj\Debug\netcoreapp2.1\05.ciclos.AssemblyInfo.cs
+D:\todo\Uni\7B\Aplicaciones\git\AEI\05.ciclos\bin\Debug\netcoreapp2.1\05.ciclos.deps.json
+D:\todo\Uni\7B\Aplicaciones\git\AEI\05.ciclos\bin\Debug\netcoreapp2.1\05.ciclos.runtimeconfig.json
+D:\todo\Uni\7B\Aplicaciones\git\AEI\05.ciclos\bin\Debug\netcoreapp2.1\05.ciclos.runtimeconfig.dev.json
+D:\todo\Uni\7B\Aplicaciones\git\AEI\05.ciclos\bin\Debug\netcoreapp2.1\05.ciclos.dll
+D:\todo\Uni\7B\Aplicaciones\git\AEI\05.ciclos\bin\Debug\netcoreapp2.1\05.ciclos.pdb
+D:\todo\Uni\7B\Aplicaciones\git\AEI\05.ciclos\obj\Debug\netcoreapp2.1\05.ciclos.dll
+D:\todo\Uni\7B\Aplicaciones\git\AEI\05.ciclos\obj\Debug\netcoreapp2.1\05.ciclos.pdb
