@@ -1,0 +1,11 @@
+D:\todo\Uni\7B\Aplicaciones\git\AEI\11.vectorsumas\bin\Debug\netcoreapp2.1\11.vectorsumas.deps.json
+D:\todo\Uni\7B\Aplicaciones\git\AEI\11.vectorsumas\bin\Debug\netcoreapp2.1\11.vectorsumas.runtimeconfig.json
+D:\todo\Uni\7B\Aplicaciones\git\AEI\11.vectorsumas\bin\Debug\netcoreapp2.1\11.vectorsumas.runtimeconfig.dev.json
+D:\todo\Uni\7B\Aplicaciones\git\AEI\11.vectorsumas\bin\Debug\netcoreapp2.1\11.vectorsumas.dll
+D:\todo\Uni\7B\Aplicaciones\git\AEI\11.vectorsumas\bin\Debug\netcoreapp2.1\11.vectorsumas.pdb
+D:\todo\Uni\7B\Aplicaciones\git\AEI\11.vectorsumas\obj\Debug\netcoreapp2.1\11.vectorsumas.csprojAssemblyReference.cache
+D:\todo\Uni\7B\Aplicaciones\git\AEI\11.vectorsumas\obj\Debug\netcoreapp2.1\11.vectorsumas.csproj.CoreCompileInputs.cache
+D:\todo\Uni\7B\Aplicaciones\git\AEI\11.vectorsumas\obj\Debug\netcoreapp2.1\11.vectorsumas.AssemblyInfoInputs.cache
+D:\todo\Uni\7B\Aplicaciones\git\AEI\11.vectorsumas\obj\Debug\netcoreapp2.1\11.vectorsumas.AssemblyInfo.cs
+D:\todo\Uni\7B\Aplicaciones\git\AEI\11.vectorsumas\obj\Debug\netcoreapp2.1\11.vectorsumas.dll
+D:\todo\Uni\7B\Aplicaciones\git\AEI\11.vectorsumas\obj\Debug\netcoreapp2.1\11.vectorsumas.pdb
