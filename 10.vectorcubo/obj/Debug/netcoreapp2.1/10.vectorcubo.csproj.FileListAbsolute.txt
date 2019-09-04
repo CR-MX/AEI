@@ -1,0 +1,11 @@
+D:\todo\Uni\7B\Aplicaciones\git\AEI\10.vectorcubo\obj\Debug\netcoreapp2.1\10.vectorcubo.csprojAssemblyReference.cache
+D:\todo\Uni\7B\Aplicaciones\git\AEI\10.vectorcubo\obj\Debug\netcoreapp2.1\10.vectorcubo.csproj.CoreCompileInputs.cache
+D:\todo\Uni\7B\Aplicaciones\git\AEI\10.vectorcubo\obj\Debug\netcoreapp2.1\10.vectorcubo.AssemblyInfoInputs.cache
+D:\todo\Uni\7B\Aplicaciones\git\AEI\10.vectorcubo\obj\Debug\netcoreapp2.1\10.vectorcubo.AssemblyInfo.cs
+D:\todo\Uni\7B\Aplicaciones\git\AEI\10.vectorcubo\bin\Debug\netcoreapp2.1\10.vectorcubo.deps.json
+D:\todo\Uni\7B\Aplicaciones\git\AEI\10.vectorcubo\bin\Debug\netcoreapp2.1\10.vectorcubo.runtimeconfig.json
+D:\todo\Uni\7B\Aplicaciones\git\AEI\10.vectorcubo\bin\Debug\netcoreapp2.1\10.vectorcubo.runtimeconfig.dev.json
+D:\todo\Uni\7B\Aplicaciones\git\AEI\10.vectorcubo\bin\Debug\netcoreapp2.1\10.vectorcubo.dll
+D:\todo\Uni\7B\Aplicaciones\git\AEI\10.vectorcubo\bin\Debug\netcoreapp2.1\10.vectorcubo.pdb
+D:\todo\Uni\7B\Aplicaciones\git\AEI\10.vectorcubo\obj\Debug\netcoreapp2.1\10.vectorcubo.dll
+D:\todo\Uni\7B\Aplicaciones\git\AEI\10.vectorcubo\obj\Debug\netcoreapp2.1\10.vectorcubo.pdb
