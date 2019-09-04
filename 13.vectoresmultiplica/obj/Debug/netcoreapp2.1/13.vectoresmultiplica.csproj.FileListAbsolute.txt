@@ -1,0 +1,11 @@
+D:\todo\Uni\7B\Aplicaciones\git\AEI\13.vectoresmultiplica\bin\Debug\netcoreapp2.1\13.vectoresmultiplica.deps.json
+D:\todo\Uni\7B\Aplicaciones\git\AEI\13.vectoresmultiplica\bin\Debug\netcoreapp2.1\13.vectoresmultiplica.runtimeconfig.json
+D:\todo\Uni\7B\Aplicaciones\git\AEI\13.vectoresmultiplica\bin\Debug\netcoreapp2.1\13.vectoresmultiplica.runtimeconfig.dev.json
+D:\todo\Uni\7B\Aplicaciones\git\AEI\13.vectoresmultiplica\bin\Debug\netcoreapp2.1\13.vectoresmultiplica.dll
+D:\todo\Uni\7B\Aplicaciones\git\AEI\13.vectoresmultiplica\bin\Debug\netcoreapp2.1\13.vectoresmultiplica.pdb
+D:\todo\Uni\7B\Aplicaciones\git\AEI\13.vectoresmultiplica\obj\Debug\netcoreapp2.1\13.vectoresmultiplica.csprojAssemblyReference.cache
+D:\todo\Uni\7B\Aplicaciones\git\AEI\13.vectoresmultiplica\obj\Debug\netcoreapp2.1\13.vectoresmultiplica.csproj.CoreCompileInputs.cache
+D:\todo\Uni\7B\Aplicaciones\git\AEI\13.vectoresmultiplica\obj\Debug\netcoreapp2.1\13.vectoresmultiplica.AssemblyInfoInputs.cache
+D:\todo\Uni\7B\Aplicaciones\git\AEI\13.vectoresmultiplica\obj\Debug\netcoreapp2.1\13.vectoresmultiplica.AssemblyInfo.cs
+D:\todo\Uni\7B\Aplicaciones\git\AEI\13.vectoresmultiplica\obj\Debug\netcoreapp2.1\13.vectoresmultiplica.dll
+D:\todo\Uni\7B\Aplicaciones\git\AEI\13.vectoresmultiplica\obj\Debug\netcoreapp2.1\13.vectoresmultiplica.pdb
