@@ -1,0 +1,11 @@
+D:\todo\Uni\7B\Aplicaciones\git\AEI\04.pagatrabajador\bin\Debug\netcoreapp2.1\04.pagatrabajador.deps.json
+D:\todo\Uni\7B\Aplicaciones\git\AEI\04.pagatrabajador\bin\Debug\netcoreapp2.1\04.pagatrabajador.runtimeconfig.json
+D:\todo\Uni\7B\Aplicaciones\git\AEI\04.pagatrabajador\bin\Debug\netcoreapp2.1\04.pagatrabajador.runtimeconfig.dev.json
+D:\todo\Uni\7B\Aplicaciones\git\AEI\04.pagatrabajador\bin\Debug\netcoreapp2.1\04.pagatrabajador.dll
+D:\todo\Uni\7B\Aplicaciones\git\AEI\04.pagatrabajador\bin\Debug\netcoreapp2.1\04.pagatrabajador.pdb
+D:\todo\Uni\7B\Aplicaciones\git\AEI\04.pagatrabajador\obj\Debug\netcoreapp2.1\04.pagatrabajador.csprojAssemblyReference.cache
+D:\todo\Uni\7B\Aplicaciones\git\AEI\04.pagatrabajador\obj\Debug\netcoreapp2.1\04.pagatrabajador.csproj.CoreCompileInputs.cache
+D:\todo\Uni\7B\Aplicaciones\git\AEI\04.pagatrabajador\obj\Debug\netcoreapp2.1\04.pagatrabajador.AssemblyInfoInputs.cache
+D:\todo\Uni\7B\Aplicaciones\git\AEI\04.pagatrabajador\obj\Debug\netcoreapp2.1\04.pagatrabajador.AssemblyInfo.cs
+D:\todo\Uni\7B\Aplicaciones\git\AEI\04.pagatrabajador\obj\Debug\netcoreapp2.1\04.pagatrabajador.dll
+D:\todo\Uni\7B\Aplicaciones\git\AEI\04.pagatrabajador\obj\Debug\netcoreapp2.1\04.pagatrabajador.pdb
