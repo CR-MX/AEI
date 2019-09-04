@@ -1,0 +1,11 @@
+D:\todo\Uni\7B\Aplicaciones\git\AEI\06.pizza\obj\Debug\netcoreapp2.1\06.pizza.csprojAssemblyReference.cache
+D:\todo\Uni\7B\Aplicaciones\git\AEI\06.pizza\obj\Debug\netcoreapp2.1\06.pizza.csproj.CoreCompileInputs.cache
+D:\todo\Uni\7B\Aplicaciones\git\AEI\06.pizza\obj\Debug\netcoreapp2.1\06.pizza.AssemblyInfoInputs.cache
+D:\todo\Uni\7B\Aplicaciones\git\AEI\06.pizza\obj\Debug\netcoreapp2.1\06.pizza.AssemblyInfo.cs
+D:\todo\Uni\7B\Aplicaciones\git\AEI\06.pizza\bin\Debug\netcoreapp2.1\06.pizza.deps.json
+D:\todo\Uni\7B\Aplicaciones\git\AEI\06.pizza\bin\Debug\netcoreapp2.1\06.pizza.runtimeconfig.json
+D:\todo\Uni\7B\Aplicaciones\git\AEI\06.pizza\bin\Debug\netcoreapp2.1\06.pizza.runtimeconfig.dev.json
+D:\todo\Uni\7B\Aplicaciones\git\AEI\06.pizza\bin\Debug\netcoreapp2.1\06.pizza.dll
+D:\todo\Uni\7B\Aplicaciones\git\AEI\06.pizza\bin\Debug\netcoreapp2.1\06.pizza.pdb
+D:\todo\Uni\7B\Aplicaciones\git\AEI\06.pizza\obj\Debug\netcoreapp2.1\06.pizza.dll
+D:\todo\Uni\7B\Aplicaciones\git\AEI\06.pizza\obj\Debug\netcoreapp2.1\06.pizza.pdb

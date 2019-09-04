@@ -1,0 +1,57 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\todo\\Uni\\7B\\Aplicaciones\\git\\AEI\\06.pizza\\06.pizza.csproj": {}
+  },
+  "projects": {
+    "D:\\todo\\Uni\\7B\\Aplicaciones\\git\\AEI\\06.pizza\\06.pizza.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\todo\\Uni\\7B\\Aplicaciones\\git\\AEI\\06.pizza\\06.pizza.csproj",
+        "projectName": "06.pizza",
+        "projectPath": "D:\\todo\\Uni\\7B\\Aplicaciones\\git\\AEI\\06.pizza\\06.pizza.csproj",
+        "packagesPath": "C:\\Users\\Carlos Arteaga\\.nuget\\packages\\",
+        "outputPath": "D:\\todo\\Uni\\7B\\Aplicaciones\\git\\AEI\\06.pizza\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Carlos Arteaga\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
