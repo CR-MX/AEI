@@ -1,0 +1,11 @@
+D:\todo\Uni\7B\Aplicaciones\git\AEI\01.parcial\obj\Debug\netcoreapp2.1\01.parcial.csprojAssemblyReference.cache
+D:\todo\Uni\7B\Aplicaciones\git\AEI\01.parcial\obj\Debug\netcoreapp2.1\01.parcial.csproj.CoreCompileInputs.cache
+D:\todo\Uni\7B\Aplicaciones\git\AEI\01.parcial\obj\Debug\netcoreapp2.1\01.parcial.AssemblyInfoInputs.cache
+D:\todo\Uni\7B\Aplicaciones\git\AEI\01.parcial\obj\Debug\netcoreapp2.1\01.parcial.AssemblyInfo.cs
+D:\todo\Uni\7B\Aplicaciones\git\AEI\01.parcial\bin\Debug\netcoreapp2.1\01.parcial.deps.json
+D:\todo\Uni\7B\Aplicaciones\git\AEI\01.parcial\bin\Debug\netcoreapp2.1\01.parcial.runtimeconfig.json
+D:\todo\Uni\7B\Aplicaciones\git\AEI\01.parcial\bin\Debug\netcoreapp2.1\01.parcial.runtimeconfig.dev.json
+D:\todo\Uni\7B\Aplicaciones\git\AEI\01.parcial\bin\Debug\netcoreapp2.1\01.parcial.dll
+D:\todo\Uni\7B\Aplicaciones\git\AEI\01.parcial\bin\Debug\netcoreapp2.1\01.parcial.pdb
+D:\todo\Uni\7B\Aplicaciones\git\AEI\01.parcial\obj\Debug\netcoreapp2.1\01.parcial.dll
+D:\todo\Uni\7B\Aplicaciones\git\AEI\01.parcial\obj\Debug\netcoreapp2.1\01.parcial.pdb
