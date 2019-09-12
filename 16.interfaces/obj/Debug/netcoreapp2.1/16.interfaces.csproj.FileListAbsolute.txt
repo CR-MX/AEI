@@ -1,0 +1,11 @@
+D:\todo\Uni\7B\Aplicaciones\git\AEI\16.interfaces\obj\Debug\netcoreapp2.1\16.interfaces.csprojAssemblyReference.cache
+D:\todo\Uni\7B\Aplicaciones\git\AEI\16.interfaces\obj\Debug\netcoreapp2.1\16.interfaces.csproj.CoreCompileInputs.cache
+D:\todo\Uni\7B\Aplicaciones\git\AEI\16.interfaces\obj\Debug\netcoreapp2.1\16.interfaces.AssemblyInfoInputs.cache
+D:\todo\Uni\7B\Aplicaciones\git\AEI\16.interfaces\obj\Debug\netcoreapp2.1\16.interfaces.AssemblyInfo.cs
+D:\todo\Uni\7B\Aplicaciones\git\AEI\16.interfaces\bin\Debug\netcoreapp2.1\16.interfaces.deps.json
+D:\todo\Uni\7B\Aplicaciones\git\AEI\16.interfaces\bin\Debug\netcoreapp2.1\16.interfaces.runtimeconfig.json
+D:\todo\Uni\7B\Aplicaciones\git\AEI\16.interfaces\bin\Debug\netcoreapp2.1\16.interfaces.runtimeconfig.dev.json
+D:\todo\Uni\7B\Aplicaciones\git\AEI\16.interfaces\bin\Debug\netcoreapp2.1\16.interfaces.dll
+D:\todo\Uni\7B\Aplicaciones\git\AEI\16.interfaces\bin\Debug\netcoreapp2.1\16.interfaces.pdb
+D:\todo\Uni\7B\Aplicaciones\git\AEI\16.interfaces\obj\Debug\netcoreapp2.1\16.interfaces.dll
+D:\todo\Uni\7B\Aplicaciones\git\AEI\16.interfaces\obj\Debug\netcoreapp2.1\16.interfaces.pdb
