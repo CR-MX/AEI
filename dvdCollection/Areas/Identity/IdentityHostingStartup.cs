@@ -1,8 +1,7 @@
 using System;
 
 using dvdCollection.Data;
-using dvdCollection.Models
-;
+using dvdCollection.Models;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Identity.UI;

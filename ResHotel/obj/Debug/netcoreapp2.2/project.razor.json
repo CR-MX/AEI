@@ -2956,173 +2956,173 @@
         }
       }
     ],
-    "CSharpLanguageVersion": 800
+    "CSharpLanguageVersion": 703
   },
   "RootNamespace": "ResHotel",
   "Documents": [
     {
-      "FilePath": "Views\\Payment\\Create.cshtml",
-      "TargetPath": "Views\\Payment\\Create.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "Views\\Guest\\Delete.cshtml",
-      "TargetPath": "Views\\Guest\\Delete.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "Views\\Shared\\Error.cshtml",
-      "TargetPath": "Views\\Shared\\Error.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "Views\\Booking\\Edit.cshtml",
-      "TargetPath": "Views\\Booking\\Edit.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "Views\\Customer\\Details.cshtml",
-      "TargetPath": "Views\\Customer\\Details.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "Views\\Room\\Create.cshtml",
-      "TargetPath": "Views\\Room\\Create.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "Views\\Home\\Index.cshtml",
-      "TargetPath": "Views\\Home\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "Views\\Home\\Privacy.cshtml",
-      "TargetPath": "Views\\Home\\Privacy.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "Views\\Payment\\Edit.cshtml",
-      "TargetPath": "Views\\Payment\\Edit.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "Views\\Customer\\Create.cshtml",
-      "TargetPath": "Views\\Customer\\Create.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "Views\\_ViewImports.cshtml",
-      "TargetPath": "Views\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "Views\\Guest\\Edit.cshtml",
-      "TargetPath": "Views\\Guest\\Edit.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "Views\\Shared\\_CookieConsentPartial.cshtml",
-      "TargetPath": "Views\\Shared\\_CookieConsentPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "Views\\Room\\Index.cshtml",
+      "FilePath": "d:\\todo\\Uni\\7B\\Aplicaciones\\git\\AEI\\ResHotel\\Views\\Room\\Index.cshtml",
       "TargetPath": "Views\\Room\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "Views\\Guest\\Index.cshtml",
-      "TargetPath": "Views\\Guest\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "Views\\Room\\Delete.cshtml",
-      "TargetPath": "Views\\Room\\Delete.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "Views\\Shared\\_Layout.cshtml",
-      "TargetPath": "Views\\Shared\\_Layout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "Views\\Customer\\Index.cshtml",
-      "TargetPath": "Views\\Customer\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "Views\\_ViewStart.cshtml",
-      "TargetPath": "Views\\_ViewStart.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "Views\\Room\\Edit.cshtml",
-      "TargetPath": "Views\\Room\\Edit.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "Views\\Booking\\Delete.cshtml",
-      "TargetPath": "Views\\Booking\\Delete.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "Views\\Booking\\Index.cshtml",
-      "TargetPath": "Views\\Booking\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "Views\\Guest\\Create.cshtml",
-      "TargetPath": "Views\\Guest\\Create.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "Views\\Booking\\Create.cshtml",
-      "TargetPath": "Views\\Booking\\Create.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "Views\\Guest\\Details.cshtml",
-      "TargetPath": "Views\\Guest\\Details.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "Views\\Room\\Details.cshtml",
-      "TargetPath": "Views\\Room\\Details.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "Views\\Customer\\Edit.cshtml",
-      "TargetPath": "Views\\Customer\\Edit.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "Views\\Customer\\Delete.cshtml",
+      "FilePath": "d:\\todo\\Uni\\7B\\Aplicaciones\\git\\AEI\\ResHotel\\Views\\Customer\\Delete.cshtml",
       "TargetPath": "Views\\Customer\\Delete.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "Views\\Payment\\Index.cshtml",
-      "TargetPath": "Views\\Payment\\Index.cshtml",
+      "FilePath": "d:\\todo\\Uni\\7B\\Aplicaciones\\git\\AEI\\ResHotel\\Views\\Payment\\Edit.cshtml",
+      "TargetPath": "Views\\Payment\\Edit.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "Views\\Payment\\Details.cshtml",
+      "FilePath": "d:\\todo\\Uni\\7B\\Aplicaciones\\git\\AEI\\ResHotel\\Views\\Booking\\Delete.cshtml",
+      "TargetPath": "Views\\Booking\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\todo\\Uni\\7B\\Aplicaciones\\git\\AEI\\ResHotel\\Views\\Room\\Details.cshtml",
+      "TargetPath": "Views\\Room\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\todo\\Uni\\7B\\Aplicaciones\\git\\AEI\\ResHotel\\Views\\Payment\\Create.cshtml",
+      "TargetPath": "Views\\Payment\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\todo\\Uni\\7B\\Aplicaciones\\git\\AEI\\ResHotel\\Views\\Home\\Privacy.cshtml",
+      "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\todo\\Uni\\7B\\Aplicaciones\\git\\AEI\\ResHotel\\Views\\Booking\\Create.cshtml",
+      "TargetPath": "Views\\Booking\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\todo\\Uni\\7B\\Aplicaciones\\git\\AEI\\ResHotel\\Views\\Shared\\_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\todo\\Uni\\7B\\Aplicaciones\\git\\AEI\\ResHotel\\Views\\_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\todo\\Uni\\7B\\Aplicaciones\\git\\AEI\\ResHotel\\Views\\Customer\\Index.cshtml",
+      "TargetPath": "Views\\Customer\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\todo\\Uni\\7B\\Aplicaciones\\git\\AEI\\ResHotel\\Views\\Room\\Create.cshtml",
+      "TargetPath": "Views\\Room\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\todo\\Uni\\7B\\Aplicaciones\\git\\AEI\\ResHotel\\Views\\Shared\\_CookieConsentPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_CookieConsentPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\todo\\Uni\\7B\\Aplicaciones\\git\\AEI\\ResHotel\\Views\\Room\\Delete.cshtml",
+      "TargetPath": "Views\\Room\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\todo\\Uni\\7B\\Aplicaciones\\git\\AEI\\ResHotel\\Views\\Customer\\Create.cshtml",
+      "TargetPath": "Views\\Customer\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\todo\\Uni\\7B\\Aplicaciones\\git\\AEI\\ResHotel\\Views\\Shared\\Error.cshtml",
+      "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\todo\\Uni\\7B\\Aplicaciones\\git\\AEI\\ResHotel\\Views\\Booking\\Index.cshtml",
+      "TargetPath": "Views\\Booking\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\todo\\Uni\\7B\\Aplicaciones\\git\\AEI\\ResHotel\\Views\\Guest\\Delete.cshtml",
+      "TargetPath": "Views\\Guest\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\todo\\Uni\\7B\\Aplicaciones\\git\\AEI\\ResHotel\\Views\\Payment\\Details.cshtml",
       "TargetPath": "Views\\Payment\\Details.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "Views\\Booking\\Details.cshtml",
+      "FilePath": "d:\\todo\\Uni\\7B\\Aplicaciones\\git\\AEI\\ResHotel\\Views\\Booking\\Edit.cshtml",
+      "TargetPath": "Views\\Booking\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\todo\\Uni\\7B\\Aplicaciones\\git\\AEI\\ResHotel\\Views\\Booking\\Details.cshtml",
       "TargetPath": "Views\\Booking\\Details.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "Views\\Payment\\Delete.cshtml",
+      "FilePath": "d:\\todo\\Uni\\7B\\Aplicaciones\\git\\AEI\\ResHotel\\Views\\Room\\Edit.cshtml",
+      "TargetPath": "Views\\Room\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\todo\\Uni\\7B\\Aplicaciones\\git\\AEI\\ResHotel\\Views\\Customer\\Details.cshtml",
+      "TargetPath": "Views\\Customer\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\todo\\Uni\\7B\\Aplicaciones\\git\\AEI\\ResHotel\\Views\\Guest\\Create.cshtml",
+      "TargetPath": "Views\\Guest\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\todo\\Uni\\7B\\Aplicaciones\\git\\AEI\\ResHotel\\Views\\Guest\\Edit.cshtml",
+      "TargetPath": "Views\\Guest\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\todo\\Uni\\7B\\Aplicaciones\\git\\AEI\\ResHotel\\Views\\Customer\\Edit.cshtml",
+      "TargetPath": "Views\\Customer\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\todo\\Uni\\7B\\Aplicaciones\\git\\AEI\\ResHotel\\Views\\Payment\\Delete.cshtml",
       "TargetPath": "Views\\Payment\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\todo\\Uni\\7B\\Aplicaciones\\git\\AEI\\ResHotel\\Views\\_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\todo\\Uni\\7B\\Aplicaciones\\git\\AEI\\ResHotel\\Views\\Guest\\Details.cshtml",
+      "TargetPath": "Views\\Guest\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\todo\\Uni\\7B\\Aplicaciones\\git\\AEI\\ResHotel\\Views\\Guest\\Index.cshtml",
+      "TargetPath": "Views\\Guest\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\todo\\Uni\\7B\\Aplicaciones\\git\\AEI\\ResHotel\\Views\\Payment\\Index.cshtml",
+      "TargetPath": "Views\\Payment\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\todo\\Uni\\7B\\Aplicaciones\\git\\AEI\\ResHotel\\Views\\Home\\Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\todo\\Uni\\7B\\Aplicaciones\\git\\AEI\\ResHotel\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
     }
   ],
